@@ -1,0 +1,98 @@
+[
+    {
+        "step": 1,
+        "thought": "Internal parse error detected during LLM response interpretation. Actively generating dynamic retry boundary.",
+        "tool_name": "retry_fallback",
+        "tool_input": {
+            "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+        }
+    },
+    {
+        "step": 2,
+        "thought": "Internal parse error detected during LLM response interpretation. Actively generating dynamic retry boundary.",
+        "tool_name": "retry_fallback",
+        "tool_input": {
+            "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+        }
+    },
+    {
+        "step": 3,
+        "thought": "Internal parse error detected during LLM response interpretation. Actively generating dynamic retry boundary.",
+        "tool_name": "retry_fallback",
+        "tool_input": {
+            "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+        }
+    },
+    {
+        "step": 4,
+        "thought": "Internal parse error detected during LLM response interpretation. Actively generating dynamic retry boundary.",
+        "tool_name": "retry_fallback",
+        "tool_input": {
+            "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+        }
+    },
+    {
+        "step": 5,
+        "thought": "Internal parse error detected during LLM response interpretation. Actively generating dynamic retry boundary.",
+        "tool_name": "retry_fallback",
+        "tool_input": {
+            "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+        }
+    },
+    {
+        "step": 6,
+        "thought": "Internal parse error detected during LLM response interpretation. Actively generating dynamic retry boundary.",
+        "tool_name": "retry_fallback",
+        "tool_input": {
+            "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+        }
+    },
+    {
+        "step": 7,
+        "thought": "Internal parse error detected during LLM response interpretation. Actively generating dynamic retry boundary.",
+        "tool_name": "retry_fallback",
+        "tool_input": {
+            "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+        }
+    },
+    {
+        "step": 8,
+        "thought": "Internal parse error detected during LLM response interpretation. Actively generating dynamic retry boundary.",
+        "tool_name": "retry_fallback",
+        "tool_input": {
+            "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+        }
+    },
+    {
+        "step": 9,
+        "thought": "Internal parse error detected during LLM response interpretation. Actively generating dynamic retry boundary.",
+        "tool_name": "retry_fallback",
+        "tool_input": {
+            "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+        }
+    },
+    {
+        "step": 10,
+        "thought": "Internal parse error detected during LLM response interpretation. Actively generating dynamic retry boundary.",
+        "tool_name": "retry_fallback",
+        "tool_input": {
+            "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+        }
+    },
+    {
+        "step": 11,
+        "thought": "Internal parse error detected during LLM response interpretation. Actively generating dynamic retry boundary.",
+        "tool_name": "retry_fallback",
+        "tool_input": {
+            "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+        }
+    },
+    {
+        "step": 12,
+        "thought": "Internal parse error detected during LLM response interpretation. Actively generating dynamic retry boundary.",
+        "tool_name": "retry_fallback",
+        "tool_input": {
+            "error": "Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+        }
+    }
+]

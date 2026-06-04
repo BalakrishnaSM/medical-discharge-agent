@@ -1,0 +1,18 @@
+{
+    "patient_demographics": {
+        "status": "[[MISSING - ESCALATED FOR REVIEW]]"
+    },
+    "principal_diagnosis": "[[UNRESOLVED CRITICAL CONTEXT ERROR - MANUAL ASSIGNMENT REQ]]",
+    "secondary_diagnoses": [],
+    "hospital_course": "Automated generation timeline context loop exceeded standard execution safety steps without arriving at a verified conclusion. Manual assembly required.",
+    "procedures_performed": [],
+    "discharge_medications": [],
+    "allergies": "Not Known",
+    "pending_results": [
+        "All pending diagnostics deferred to manual physician tracking protocols."
+    ],
+    "discharge_condition": "Unverified",
+    "clinical_flags_for_review": [
+        "CRITICAL STATE BLOWOUT: Controller process execution loop terminated due to iteration threshold limits rule."
+    ]
+}
